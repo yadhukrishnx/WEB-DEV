@@ -1,2 +1,3 @@
 Day 0 : 
+installed readline-sync for reading data from user : npm install readline-sync 
 
